@@ -1,0 +1,28 @@
+{
+  "name": "github-print-file",
+  "version": "1.0.0",
+  "description": "Add print icon to github file preview that strips out ui elements when printing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "install-test": "playwright install",
+    "test": "playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notTGY/github-print-file.git"
+  },
+  "keywords": [
+    "github",
+    "print"
+  ],
+  "author": "notTGY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/notTGY/github-print-file/issues"
+  },
+  "homepage": "https://github.com/notTGY/github-print-file#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.0"
+  }
+}
