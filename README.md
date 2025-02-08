@@ -3,6 +3,8 @@
 Add print icon to github file preview
 that strips out ui elements when printing.
 
+[Download extension for chrome](https://chromewebstore.google.com/detail/github-print-file/ikkoejfipnohdheogeinmdbadakbhmed)
+
 An example of chrome extension with tests.
 
 ## Testing
